@@ -1,0 +1,4 @@
+com.example.fuelefficiencyapp.test.app-androidTest-0 C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\build\generated\res\resValues\androidTest\debug
+com.example.fuelefficiencyapp.test.app-mergeDebugAndroidTestResources-1 C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.fuelefficiencyapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.fuelefficiencyapp.test.app-debugAndroidTest-3 C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
