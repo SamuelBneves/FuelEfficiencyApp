@@ -1,6 +1,30 @@
 [
     {
-        "merged": "com.example.fuelefficiencyapp-debug-28:/layout_activity_main.xml.flat",
-        "source": "com.example.fuelefficiencyapp-main-30:/layout/activity_main.xml"
+        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\drawable_logoeffyciency.png.flat",
+        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\drawable\\logoeffyciency.png"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/drawable_logo.png.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/drawable/logo.png"
+    },
+    {
+        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/layout_activity_splash.xml.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\color_white.xml.flat",
+        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\color\\white.xml"
     }
 ]

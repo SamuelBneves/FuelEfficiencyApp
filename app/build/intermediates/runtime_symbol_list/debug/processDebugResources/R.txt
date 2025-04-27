@@ -26,6 +26,7 @@ int anim design_bottom_sheet_slide_in 0x7f010018
 int anim design_bottom_sheet_slide_out 0x7f010019
 int anim design_snackbar_in 0x7f01001a
 int anim design_snackbar_out 0x7f01001b
+int anim fade_in 0x7f01002a
 int anim fragment_fast_out_extra_slow_in 0x7f01001c
 int anim linear_indeterminate_line1_head_interpolator 0x7f01001d
 int anim linear_indeterminate_line1_tail_interpolator 0x7f01001e
@@ -2044,6 +2045,7 @@ int color switch_thumb_normal_material_dark 0x7f0502e2
 int color switch_thumb_normal_material_light 0x7f0502e3
 int color tooltip_background_dark 0x7f0502e4
 int color tooltip_background_light 0x7f0502e5
+int color white 0x7f0502e6
 int dimen abc_action_bar_content_inset_material 0x7f060000
 int dimen abc_action_bar_content_inset_with_nav 0x7f060001
 int dimen abc_action_bar_default_height_material 0x7f060002
@@ -2931,6 +2933,8 @@ int drawable ic_mtrl_chip_checked_black 0x7f070094
 int drawable ic_mtrl_chip_checked_circle 0x7f070095
 int drawable ic_mtrl_chip_close_circle 0x7f070096
 int drawable ic_search_black_24 0x7f070097
+int drawable logo 0x7f0700e4
+int drawable logoeffyciency 0x7f0700e3
 int drawable m3_appbar_background 0x7f070098
 int drawable m3_avd_hide_password 0x7f070099
 int drawable m3_avd_show_password 0x7f07009a
@@ -3250,6 +3254,7 @@ int id line3 0x7f0800f0
 int id linear 0x7f0800f1
 int id listMode 0x7f0800f2
 int id list_item 0x7f0800f3
+int id logoImage 0x7f0801f4
 int id m3_side_sheet 0x7f0800f4
 int id marquee 0x7f0800f5
 int id masked 0x7f0800f6
@@ -3620,6 +3625,7 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_main 0x7f0b001c
+int layout activity_splash 0x7f0b006c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f

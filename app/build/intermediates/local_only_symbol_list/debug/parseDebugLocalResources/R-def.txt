@@ -1,8 +1,14 @@
 R_DEF: Internal format may change without notice
 local
+anim fade_in
+color white
+drawable logo
+drawable logoeffyciency
 id btnCalculate
 id editDistance
 id editFuel
 id editSpeed
+id logoImage
 id textResult
 layout activity_main
+layout activity_splash
