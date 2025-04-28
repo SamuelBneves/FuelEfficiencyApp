@@ -1,30 +1,98 @@
 [
     {
-        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\layout\\activity_splash.xml"
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\drawable_logoeffyciency.png.flat",
-        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\drawable\\logoeffyciency.png"
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/drawable_iconapp.png.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/drawable/iconapp.png"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/anim_fade_in.xml.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "com.example.fuelefficiencyapp-debug-28:/drawable_logo.png.flat",
         "source": "com.example.fuelefficiencyapp-main-30:/drawable/logo.png"
     },
     {
-        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\layout\\activity_main.xml"
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\anim_fade_in.xml.flat",
-        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\anim\\fade_in.xml"
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.fuelefficiencyapp-debug-28:/layout_activity_splash.xml.flat",
         "source": "com.example.fuelefficiencyapp-main-30:/layout/activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-debug-28:\\color_white.xml.flat",
-        "source": "C:\\Users\\samueln\\.gradle\\daemon\\8.7\\com.example.fuelefficiencyapp-main-30:\\color\\white.xml"
+        "merged": "com.example.fuelefficiencyapp-debug-28:/color_white.xml.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/color/white.xml"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fuelefficiencyapp-debug-28:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.fuelefficiencyapp-main-30:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     }
 ]

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-21:12
-INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-21:12
-INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-21:12
-INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-21:12
+ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:1-25:12
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\samueln\.gradle\caches\transforms-4\c991f051961c583a748a7476a6a543b4\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\samueln\.gradle\caches\transforms-4\0ceccee0fa992a5b1634384bb5688923\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\samueln\.gradle\caches\transforms-4\4d1ceb897cce1964e8a6b8db53aa9cdb\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -54,8 +54,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\samueln\.gradle\caches\transfo
 	xmlns:android
 		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:4:5-19:19
-INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:4:5-19:19
+ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:4:5-23:19
+INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:4:5-23:19
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\samueln\.gradle\caches\transforms-4\c991f051961c583a748a7476a6a543b4\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\samueln\.gradle\caches\transforms-4\c991f051961c583a748a7476a6a543b4\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\samueln\.gradle\caches\transforms-4\0ceccee0fa992a5b1634384bb5688923\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -78,26 +78,30 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samueln\.gradle\ca
 		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:7:9-35
 	android:label
 		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:6:9-42
+	android:roundIcon
+		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
 		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:5:9-35
 	android:theme
 		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:8:9-67
 activity#com.example.fuelefficiencyapp.MainActivity
-ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:10:9-17:20
+ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:12:13-36
+		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:11:13-41
+		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:13:13-16:29
+ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml
