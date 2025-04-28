@@ -1,6 +1,12 @@
 R_DEF: Internal format may change without notice
 local
 anim fade_in
+color backgroundColor
+color primaryColor
+color primaryDarkColor
+color secondaryColor
+color textColorPrimary
+color textColorSecondary
 color white
 drawable ic_launcher_background
 drawable iconapp
@@ -16,3 +22,4 @@ layout activity_splash
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
+style Theme.FuelEfficiencyApp

@@ -5,7 +5,7 @@
         android:allowBackup="true"
         android:label="FuelEfficiencyApp"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+        android:theme="@style/Theme.FuelEfficiencyApp"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round">
 

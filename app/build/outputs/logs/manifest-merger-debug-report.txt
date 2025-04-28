@@ -85,7 +85,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samueln\.gradle\ca
 	android:allowBackup
 		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:5:9-35
 	android:theme
-		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:8:9-67
+		ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:8:9-55
 activity#com.example.fuelefficiencyapp.MainActivity
 ADDED from C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:exported

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#40AF7C</color> <!-- Azul principal -->
+    <color name="primaryDarkColor">#1976D2</color> <!-- Verde padrao -->
+    <color name="secondaryColor">#212121</color> <!-- Cinza escuro cor da linha -->
+    <color name="backgroundColor">#f0f2f0</color> <!-- Branco de fundo -->
+    <color name="textColorPrimary">#212121</color> <!-- Cinza escuro para textos -->
+    <color name="textColorSecondary">#757575</color> <!-- Cinza claro para textos secundários -->
+</resources>

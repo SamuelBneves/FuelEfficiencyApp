@@ -24,7 +24,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        android:theme="@style/Theme.FuelEfficiencyApp" >
         <activity
             android:name="com.example.fuelefficiencyapp.MainActivity"
             android:exported="true" > <!-- Aqui está a correção -->

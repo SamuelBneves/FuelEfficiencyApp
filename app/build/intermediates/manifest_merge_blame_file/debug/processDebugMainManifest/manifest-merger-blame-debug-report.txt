@@ -36,8 +36,8 @@
 25        android:supportsRtl="true"
 25-->C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:7:9-35
 26        android:testOnly="true"
-27        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
-27-->C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:8:9-67
+27        android:theme="@style/Theme.FuelEfficiencyApp" >
+27-->C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:8:9-55
 28        <activity
 28-->C:\Users\samueln\Documents\ProjectFuelEf\FuelEfficiencyApp_completo\app\src\main\AndroidManifest.xml:12:9-20:20
 29            android:name="com.example.fuelefficiencyapp.MainActivity"
