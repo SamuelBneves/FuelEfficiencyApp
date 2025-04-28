@@ -3,6 +3,12 @@ package com.example.fuelefficiencyapp
 import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
+import android.text.Editable
+import android.text.TextWatcher
+import android.widget.EditText
+import java.text.DecimalFormat
+import java.text.NumberFormat
+import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -21,6 +27,13 @@ class MainActivity : AppCompatActivity() {
         editSpeed = findViewById(R.id.editSpeed)
         btnCalculate = findViewById(R.id.btnCalculate)
         textResult = findViewById(R.id.textResult)
+        val distanceInput = findViewById<EditText>(R.id.editDistance)
+        val fuelInput = findViewById<EditText>(R.id.editFuel)
+        val speedInput = findViewById<EditText>(R.id.editSpeed)
+
+        applyDecimalMask(distanceInput)
+        applyDecimalMask(fuelInput)
+        applyDecimalMask(speedInput)
 
         btnCalculate.setOnClickListener {
             calculate()
@@ -49,5 +62,32 @@ class MainActivity : AppCompatActivity() {
             currentSpeed in 40.0..90.0 -> currentSpeed
             else -> 90.0
         }
+    }
+
+    fun applyDecimalMask(editText: EditText) {
+        editText.addTextChangedListener(object : TextWatcher {
+            private var current = ""
+
+            override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) { }
+
+            override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) { }
+
+            override fun afterTextChanged(s: Editable?) {
+                if (s.toString() != current) {
+                    editText.removeTextChangedListener(this)
+
+                    val cleanString = s.toString().replace(",", "").replace(".", "")
+
+                    val parsed = cleanString.toDoubleOrNull() ?: 0.0
+                    val formatted = NumberFormat.getNumberInstance(Locale.US).format(parsed / 100)
+
+                    current = formatted
+                    editText.setText(formatted)
+                    editText.setSelection(formatted.length)
+
+                    editText.addTextChangedListener(this)
+                }
+            }
+        })
     }
 }
